@@ -1,0 +1,7 @@
+username:marosh123
+email:hir-ishibashi@
+pass:itumono
+
+https://marosh123.pythonanywhere.com/admin/
+username:marosh123
+pass:itumono
